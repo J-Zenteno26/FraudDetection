@@ -34,7 +34,8 @@ El dataset contiene más de 280.000 transacciones, donde aproximadamente el 0.17
 
 ---
 ## Modelos
-![Modelos](https://github.com/user-attachments/assets/3ef67590-a40a-4599-b4da-e3b3c5d473f1)
+![Modelos](https://github.com/user-attachments/assets/d1c94393-f7f2-464d-8e6e-8098b9d80e0f1)
+
 ---
 ## Resumen de evaluación de modelos
 
@@ -54,7 +55,8 @@ Random Forest presenta la mejor precisión general. Reduce casi por completo los
 
 ## Ajuste de umbral
 Evaluación de distintos umbrales para controlar el trade-off entre precision y recall.
-![Impacto del umbral](https://github.com/user-attachments/assets/33b35c85-8a6b-4c9d-b093-c5bdfc5f3ee7)
+![Impacto del umbral](https://github.com/user-attachments/assets/098a69d5-2ad3-440b-9a6d-ce609ea07404)
+
 
 - Precision aumenta al subir el umbral, reduciendo falsos positivos.
 - Recall disminuye levemente, manteniéndose alto.
@@ -64,7 +66,8 @@ Evaluación de distintos umbrales para controlar el trade-off entre precision y 
 
 ## Resultados
 
-![Comparación de modelos](https://github.com/user-attachments/assets/ac5e6115-f904-477d-aab3-c48f47c2678c)
+![Comparación de modelos](https://github.com/user-attachments/assets/4100e178-854a-409f-a1ea-ff30df21c95a)
+
 
 | Modelo | Recall | Precision |
 |--------|--------|----------|
